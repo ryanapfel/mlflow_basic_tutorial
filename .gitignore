@@ -1,2 +1,4 @@
 .env
 eda.ipynb
+./ipynb_checkpoints
+./vscode
